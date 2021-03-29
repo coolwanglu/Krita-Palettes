@@ -1,7 +1,7 @@
 # Zorn Palette for Krita
 
 ## Screenshot
-![screenshot](https://github.com/coolwanglu/Zorn-Palette-For-Krita/blob/main/screenshot.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/coolwanglu/Zorn-Palette-For-Krita/master/screenshot.png)
 
 ## Explanation
 
