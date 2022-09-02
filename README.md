@@ -1,6 +1,6 @@
 # Krita Palettes
 
-Paletes I created for painting.
+Palettes I created for painting.
 
 ## Zorn
 
