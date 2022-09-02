@@ -19,6 +19,3 @@ More details can be found [here](http://coolwanglu.blogspot.com/2021/03/notes-on
 ## Usage
 Simply import `wl_Zorn.kpl` into Krita.
 
-The XML file is also included here for easier inspection.
-
-
